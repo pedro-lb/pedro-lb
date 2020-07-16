@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**pedro-lb/pedro-lb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend engineer at [Jungsoft](https://jungsoft.io/), currently working with React ⚛️, React Native 📱 and GraphQL 🚀.
 
-Here are some ideas to get you started:
+### 🌱 On knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I try to learn as much as possible from open-source projects, initiatives and any other source of knowledge. 
+
+Life is very complex, but we might as well learn as much as we can, right?
+
+### 🗿 On projects & personal values
+
+I believe technology can change people's lifes, and open source projects are at the core of that. 
+
+Thus, I am focused on creating & shipping projects that help on real world issues, making the difference.
+
+### ☕ Let's talk!
+
+Shoot me a message on [LinkedIn](https://www.linkedin.com/in/pedrobini/) or [email](mailto:dev.pedrobini@gmail.com) on any of the following topics below!
+
+- Programming stuff
+- Movies, music and books
+- Games
+- Food
+
+Oh! You can also check other links and stuff [here](https://linktr.ee/pedrobini) =)
