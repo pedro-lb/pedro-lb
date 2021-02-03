@@ -11,7 +11,7 @@
 
 How are you doing? =)
 
-I'm a frontend engineer at [Jungsoft](https://jungsoft.io/), currently working with React ⚛️, React Native 📱 , and GraphQL 🚀.
+I'm a frontend engineer at [GeekHunter](https://www.geekhunter.com.br/), currently working with React ⚛️, React Native 📱 , and GraphQL 🚀.
 
 ## 🌱 On knowledge
 
