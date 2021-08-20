@@ -11,7 +11,9 @@
 
 How are you doing? =)
 
-I'm a frontend engineer at [GeekHunter](https://www.geekhunter.com.br/), currently working with React ⚛️, React Native 📱 , and GraphQL 🚀.
+👉 Currently, I'm working as a tech lead at [GeekHunter](https://www.geekhunter.com.br/).
+
+👉 I'm studying React ⚛️, React Native 📱, GraphQL 🚀 and Elixir 💧.
 
 ## 🌱 On knowledge
 
