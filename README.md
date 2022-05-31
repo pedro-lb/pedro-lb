@@ -11,7 +11,7 @@
 
 How are you doing? =)
 
-👉 Currently, I'm working as a Tech Lead at [GeekHunter Brasil](https://github.com/GeekHunter-Brasil).
+👉 Currently, I'm working as a Software Engineer at [Constructor.io](https://constructor.io/).
 
 👉 I'm studying React ⚛️, React Native 📱, GraphQL 🚀 and Elixir 💧.
 
