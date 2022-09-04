@@ -13,19 +13,19 @@ How are you doing? =)
 
 👉 Currently, I'm working as a Software Engineer at [Constructor.io](https://constructor.io/).
 
-👉 I'm studying React ⚛️, React Native 📱, GraphQL 🚀 and Elixir 💧.
+👉 Most of the time, I'm coding with React ⚛️, React Native 📱, GraphQL 🚀 and Elixir 💧.
 
 ## 🌱 On knowledge
 
-I try to learn as much as possible from open-source projects, initiatives, and any other source of knowledge. 
+I try to learn as much as possible from each problem that I eventually solve.
 
-Life is very complex, but we might as well learn as much as we can, right?
+Life is very complex - but we might as well learn as much as we can, right?
 
 ## 🗿 On projects & personal values
 
-I believe technology can change people's lives, and open source projects are at the core of that. 
+I believe technology can change people's lives.
 
-Thus, I am focused on creating & shipping projects that help on real-world issues, making the difference.
+Thus, I am focused on creating & shipping products that help on real-world issues, making the difference.
 
 ## ☕ Let's talk!
 
